@@ -1,5 +1,3 @@
-# PF_2024_2025
-
 <h1 align="center">Practical Work on Projeto Final (Final Project)</h1>
 
 <p>
